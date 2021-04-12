@@ -1,2 +1,2 @@
-# Portfolio
-Premier jet d'un Portfolio, en attente d'améliorations
+# Portfolio V1
+Premier jet d'un Portfolio, exercice de cours.
